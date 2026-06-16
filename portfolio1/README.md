@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🚀%20Live%20Portfolio-View%20Now-7b2fff?style=for-the-badge&logoColor=white)](https://bhavya-41206.github.io)
+[![Portfolio](https://img.shields.io/badge/🚀%20Live%20Portfolio-View%20Now-7b2fff?style=for-the-badge&logoColor=white)](https://bhavya-sri-samineni-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-sri-samineni)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhavya-41206)
 [![Resume](https://img.shields.io/badge/Resume-Download-ff6ef7?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1IqvfCEITrAoy3ofRaBhA1iD_iLpoyadR/view?usp=sharing)
